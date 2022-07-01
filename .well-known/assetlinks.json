@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.novikova.handlinglinksapp",
+    "sha256_cert_fingerprints":
+    ["E5:5D:85:8A:2B:B5:FD:F4:9E:8C:28:F2:63:EA:9D:44:2A:0E:00:59:98:96:41:D8:70:BF:26:42:16:75:A3:29"]
+  }
+}]
